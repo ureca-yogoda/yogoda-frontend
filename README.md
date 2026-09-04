@@ -138,8 +138,8 @@
 - 통신 이용 성향에 대한 설문 진행
 - 설문 결과 기반 사용자 유형 분석 및 추천에 활용
 
-<div align="center">
-  <img src="./docs/onboarding.gif" width="120" alt="온보딩 및 사용자 성향 분석"/>
+<div align="left">
+  <img src="./docs/onboarding.gif" width="200" alt="온보딩 및 사용자 성향 분석"/>
 </div>
 
 ### AI 맞춤 요금제 추천
@@ -154,8 +154,8 @@
 - 설문 결과, 이전 대화, 현재 요금제를 기반으로 요금제 안내 및 추천
 - 실시간 스트리밍 응답, 대화 중단 및 비회원 상담 이어가기
 
-<div align="center">
-  <img src="./docs/ai-chatbot.gif" width="120" alt="AI 챗봇 상담"/>
+<div align="left">
+  <img src="./docs/ai-chatbot.gif" width="200" alt="AI 챗봇 상담"/>
 </div>
 
 ### 요금제 탐색 및 비교
@@ -168,8 +168,8 @@
 
 - 사기 예방 안내 → 약관 동의 → 본인 확인 → 혜택 선택 → 결제 수단 선택 → 완료까지의 가입 흐름 시뮬레이션
 
-<div align="center">
-  <img src="./docs/plan-signup.gif" width="120" alt="요금제 가입"/>
+<div align="left">
+  <img src="./docs/plan-signup.gif" width="200" alt="요금제 가입"/>
 </div>
 
 ### 혜택 및 MY
@@ -179,8 +179,8 @@
 - 구독 서비스 관리와 월별 사용 패턴 기반 AI 요금제 재추천
 - 새 추천, 출석, 쿠폰 및 미완료 상담 실시간 알림
 
-<div align="center">
-  <img src="./docs/benefits-my.gif" width="120" alt="혜택 및 MY"/>
+<div align="left">
+  <img src="./docs/benefits-my.gif" width="200" alt="혜택 및 MY"/>
 </div>
 
 ---
@@ -208,8 +208,8 @@
 - 상담 세션과 메시지 로그 조회
 - 요금제 상세, 비교, 가입 버튼 등 주요 UI의 조회·클릭 데이터 분석
 
-<div align="center">
-  <img src="./docs/admin.gif" width="120" alt="상담 세션 및 UI 분석"/>
+<div align="left">
+  <img src="./docs/admin.gif" width="200" alt="상담 세션 및 UI 분석"/>
 </div>
 
 ---
